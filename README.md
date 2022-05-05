@@ -26,14 +26,15 @@
 <br>
 
 ### 🛠 &nbsp;Tech Stack
-![Dart](https://img.shields.io/badge/-Python-05122A?style=flat&logo=dart)&nbsp;
+![Dart](https://img.shields.io/badge/-dart-05122A?style=flat&logo=dart)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Hive](https://img.shields.io/badge/-Hive-05122A?style=flat&logo=hive)&nbsp;
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+
 
  Others;
+  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
