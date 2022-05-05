@@ -8,4 +8,3 @@
 - 💬 Familiar with other languages like python.
 - 📫 How to reach me: Sahal2050@gmail.com
 - 🌐 visit: https://sahalmp.online/
--->
