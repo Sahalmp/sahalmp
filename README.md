@@ -12,5 +12,5 @@
 - 🌐 visit: https://sahalmp.online/
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahalmp)](https://github.com/sahalmp/github-readme-stats)
 [![Sahal M P's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahalmp)](https://github.com/sahalmp/github-readme-stats)
