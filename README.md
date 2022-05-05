@@ -1,3 +1,4 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <p align="center"><img src="animation.gif" width="35%"></p>
 
 <p align="center">
