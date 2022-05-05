@@ -1,4 +1,4 @@
-HI <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="sahalmp" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sahalmp?trk=profile-badge">MUHAMMED SAHAL M P</a></div>
+
 <p align="center"><img src="animation.gif" width="35%"></p>
 
 <p align="center">
