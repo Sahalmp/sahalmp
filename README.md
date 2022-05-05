@@ -1,4 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <p align="center"><img src="animation.gif" width="35%"></p>
 
 <p align="center">
@@ -62,3 +61,5 @@
 <a href="https://github.com/sahalmp"><img src="https://img.shields.io/badge/-sahalmp-3423A6?style=for-the-badge&logo=Github&logoColor=white"/></a>
 </p>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="sahalmp" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sahalmp?trk=profile-badge">MUHAMMED SAHAL M P</a></div>
+              
