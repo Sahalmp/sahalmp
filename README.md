@@ -19,7 +19,7 @@
 </p>
 <br>
 
-[![Sahal MP' Activity Graph](https://activity-graph.herokuapp.com/graph?username=lia0wang&custom_title=Sahal%20MP's%20Contribution%20Graph&theme=react-dark&bg_color=1a2d3d&hide_border=true&line=6dbef7&point=add7ff&color=27e8a7)](https://lia0wang.dev)
+[![Sahal MP' Activity Graph](https://activity-graph.herokuapp.com/graph?username=sahalmp&custom_title=Sahal%20MP's%20Contribution%20Graph&theme=react-dark&bg_color=1a2d3d&hide_border=true&line=6dbef7&point=add7ff&color=27e8a7)](https://lia0wang.dev)
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
@@ -50,9 +50,9 @@
 ### :link: &nbsp;Contact Info
 
 <p align="center">
-<a href="https://lia0wang.com/"><img src="https://img.shields.io/badge/-lia0wang.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/wang-liao-280571213/"><img src="https://img.shields.io/badge/-Wang%20Liao-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://github.com/lia0wang"><img src="https://img.shields.io/badge/-lia0wang-3423A6?style=for-the-badge&logo=Github&logoColor=white"/></a>
+
+<a href="https://www.linkedin.com/in/muhammed-sahal-m-p-057723212/"><img src="https://img.shields.io/badge/-Sahal%20MP-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://github.com/sahalmp"><img src="https://img.shields.io/badge/-sahalmp-3423A6?style=for-the-badge&logo=Github&logoColor=white"/></a>
 </p>
 
 <p align="center"><b>Profile Visitor Count</b><img src="Hi.gif" width="30px"></p>
