@@ -26,6 +26,9 @@
 <br>
 
 ### 🛠 &nbsp;Tech Stack
+![Dart](https://img.shields.io/badge/-Python-05122A?style=flat&logo=dart)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
+![Hive](https://img.shields.io/badge/-Hive-05122A?style=flat&logo=hive)&nbsp;
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
@@ -55,5 +58,3 @@
 <a href="https://github.com/sahalmp"><img src="https://img.shields.io/badge/-sahalmp-3423A6?style=for-the-badge&logo=Github&logoColor=white"/></a>
 </p>
 
-<p align="center"><b>Profile Visitor Count</b><img src="Hi.gif" width="30px"></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7Blia0wang%7D/count.svg" alt="visitor badge" width="30%"></p>
