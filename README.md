@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/muhammed-sahal-m-p-057723212/"><img src="https://img.shields.io/badge/-Sahal%20MP-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sahalmp/"><img src="https://img.shields.io/badge/-Sahal%20MP-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://github.com/sahalmp"><img src="https://img.shields.io/badge/-sahalmp-3423A6?style=for-the-badge&logo=Github&logoColor=white"/></a>
 </p>
 
