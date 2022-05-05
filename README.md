@@ -1,4 +1,3 @@
-[![Header](https://raw.githubusercontent.com/sahalmp/<OWNER>/<OWNER>/readme_header.png "Header")](https://sahalmp.online)
 
 
 ### Hi there 👋
