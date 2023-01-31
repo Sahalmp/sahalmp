@@ -30,7 +30,7 @@
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Hive](https://img.shields.io/badge/-Hive-05122A?style=flat&logo=hive)&nbsp;
-![NodeJS](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=nodejs)&nbsp;
+![NodeJS](https://img.shields.io/badge/-Nodejs-05122A?style=flat&logo=nodejs)&nbsp;
 
 
 
